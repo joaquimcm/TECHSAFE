@@ -1,0 +1,174 @@
+._1,
+._1 * {
+  box-sizing: border-box;
+}
+._1 {
+  position: relative;
+}
+.header {
+  width: 1440px;
+  height: 838px;
+  position: static;
+}
+.rectangle {
+  width: 1440px;
+  height: 729px;
+  position: absolute;
+  left: 0px;
+  top: 109px;
+  filter: blur(5px);
+  object-fit: cover;
+}
+.header2 {
+  background: #0a0a0a;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1440px;
+  height: 109.52px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.logo-2 {
+  width: 323.66px;
+  height: 108.76px;
+  position: static;
+}
+.logo-22 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 323.66px;
+  height: 108.76px;
+  position: absolute;
+  left: 124.87px;
+  top: 0.38px;
+  object-fit: cover;
+  aspect-ratio: 323.66/108.76;
+}
+.apaga {
+  background: #000000;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 232.59px;
+  height: 13.76px;
+  position: absolute;
+  left: 147.8px;
+  top: 75.07px;
+}
+.tecnologia-e-conscientiza-o-para-um-futuro-seguro {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 9px;
+  font-weight: 400;
+  position: absolute;
+  left: 148.03px;
+  top: 71.88px;
+  width: 240.68px;
+  height: 14.1px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  -webkit-text-stroke: 1px #000000;
+}
+.navegation {
+  width: 663px;
+  height: 30.42px;
+  position: static;
+}
+.sobre {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  position: absolute;
+  left: 653px;
+  top: 40px;
+  width: 67px;
+  height: 30.42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 1px #000000;
+}
+.contato {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  position: absolute;
+  left: 1212px;
+  top: 40px;
+  width: 104px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 1px #000000;
+}
+.servi-os {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  position: absolute;
+  left: 748px;
+  top: 40px;
+  width: 103px;
+  height: 30.42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 1px #000000;
+}
+.programa-o {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  position: absolute;
+  left: 879px;
+  top: 40px;
+  width: 167px;
+  height: 30.42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 1px #000000;
+}
+.endere-o {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  position: absolute;
+  left: 1074px;
+  top: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 1px #000000;
+}
+.logo-1 {
+  width: 597.35px;
+  height: 746.99px;
+  position: absolute;
+  left: 385.91px;
+  top: 115.01px;
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+  aspect-ratio: 597.35/746.99;
+}

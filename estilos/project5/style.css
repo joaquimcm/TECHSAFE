@@ -1,0 +1,447 @@
+._3,
+._3 * {
+  box-sizing: border-box;
+}
+._3 {
+  position: relative;
+}
+.background {
+  width: 1440px;
+  height: 850px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  filter: blur(5px);
+  object-fit: cover;
+}
+.servi-os {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 48px;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  position: absolute;
+  left: 596px;
+  top: 96px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-1 {
+  width: 1324px;
+  height: 516px;
+  position: absolute;
+  left: 111px;
+  top: 188px;
+  overflow-x: auto;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.servico {
+  width: 331px;
+  height: 514px;
+  position: static;
+}
+.rectangle-2 {
+  background: #ffffff;
+  border-radius: 35px;
+  opacity: 0.9;
+  width: 331px;
+  height: 434px;
+  position: absolute;
+  left: 1295px;
+  top: 80px;
+  box-shadow: -11px 15px 41px 0px rgba(0, 0, 0, 0.1),
+    -45px 60px 75px 0px rgba(0, 0, 0, 0.09),
+    -101px 136px 102px 0px rgba(0, 0, 0, 0.05),
+    -179px 242px 120px 0px rgba(0, 0, 0, 0.01),
+    -280px 378px 132px 0px rgba(0, 0, 0, 0);
+  aspect-ratio: 331/434;
+}
+.ellipse-1 {
+  background: #e8eaf0;
+  border-radius: 50%;
+  width: 160px;
+  height: 160px;
+  position: absolute;
+  left: 1381px;
+  top: 16px;
+}
+.settings {
+  width: 159px;
+  height: 191px;
+  position: absolute;
+  left: 1381px;
+  top: 0px;
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.lorem-ipsum {
+  color: #0f3eca;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 36px;
+  line-height: 50px;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  position: absolute;
+  left: 1296px;
+  top: 192px;
+  width: 330px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-ipsum-interdum-enim-ornare-aliquam-tellus-eget-neque-praesent-volutpat-lacus-rhoncus {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.03em;
+  font-weight: 400;
+  position: absolute;
+  left: 1324px;
+  top: 258px;
+  width: 273px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.servico-2 {
+  width: 331px;
+  height: 498px;
+  position: static;
+}
+.rectangle-22 {
+  background: #ffffff;
+  border-radius: 35px;
+  opacity: 0.9;
+  width: 331px;
+  height: 434px;
+  position: absolute;
+  left: 1738px;
+  top: 78px;
+  box-shadow: -11px 15px 41px 0px rgba(0, 0, 0, 0.1),
+    -45px 60px 75px 0px rgba(0, 0, 0, 0.09),
+    -101px 136px 102px 0px rgba(0, 0, 0, 0.05),
+    -179px 242px 120px 0px rgba(0, 0, 0, 0.01),
+    -280px 378px 132px 0px rgba(0, 0, 0, 0);
+  aspect-ratio: 331/434;
+}
+.ellipse-12 {
+  background: #e8eaf0;
+  border-radius: 50%;
+  width: 160px;
+  height: 160px;
+  position: absolute;
+  left: 1824px;
+  top: 14px;
+}
+.deep-1 {
+  width: 115px;
+  height: 115px;
+  position: absolute;
+  left: 1846px;
+  top: 36px;
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.lorem-ipsum2 {
+  color: #0f3eca;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 36px;
+  line-height: 50px;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  position: absolute;
+  left: 1739px;
+  top: 190px;
+  width: 330px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-ipsum-interdum-enim-ornare-aliquam-tellus-eget-neque-praesent-volutpat-lacus-rhoncus2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.03em;
+  font-weight: 400;
+  position: absolute;
+  left: 1767px;
+  top: 256px;
+  width: 273px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.servico-3 {
+  width: 331px;
+  height: 498px;
+  position: static;
+}
+.rectangle-23 {
+  background: #ffffff;
+  border-radius: 35px;
+  opacity: 0.9;
+  width: 331px;
+  height: 434px;
+  position: absolute;
+  left: 2181px;
+  top: 80px;
+  box-shadow: -11px 15px 41px 0px rgba(0, 0, 0, 0.1),
+    -45px 60px 75px 0px rgba(0, 0, 0, 0.09),
+    -101px 136px 102px 0px rgba(0, 0, 0, 0.05),
+    -179px 242px 120px 0px rgba(0, 0, 0, 0.01),
+    -280px 378px 132px 0px rgba(0, 0, 0, 0);
+  aspect-ratio: 331/434;
+}
+.ellipse-13 {
+  background: #e8eaf0;
+  border-radius: 50%;
+  width: 160px;
+  height: 160px;
+  position: absolute;
+  left: 2267px;
+  top: 16px;
+}
+.vector {
+  width: 137px;
+  height: 117px;
+  position: absolute;
+  left: 2278px;
+  top: 28px;
+  overflow: visible;
+}
+.lorem-ipsum3 {
+  color: #0f3eca;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 36px;
+  line-height: 50px;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  position: absolute;
+  left: 2182px;
+  top: 192px;
+  width: 330px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-ipsum-interdum-enim-ornare-aliquam-tellus-eget-neque-praesent-volutpat-lacus-rhoncus3 {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.03em;
+  font-weight: 400;
+  position: absolute;
+  left: 2210px;
+  top: 258px;
+  width: 273px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-24 {
+  background: #ffffff;
+  border-radius: 35px;
+  opacity: 0.9;
+  width: 331px;
+  height: 434px;
+  position: absolute;
+  left: 0px;
+  top: 82px;
+  box-shadow: -11px 15px 41px 0px rgba(0, 0, 0, 0.1),
+    -45px 60px 75px 0px rgba(0, 0, 0, 0.09),
+    -101px 136px 102px 0px rgba(0, 0, 0, 0.05),
+    -179px 242px 120px 0px rgba(0, 0, 0, 0.01),
+    -280px 378px 132px 0px rgba(0, 0, 0, 0);
+  aspect-ratio: 331/434;
+}
+.ellipse-14 {
+  background: #e8eaf0;
+  border-radius: 50%;
+  width: 160px;
+  height: 160px;
+  position: absolute;
+  left: 86px;
+  top: 18px;
+}
+.settings2 {
+  width: 159px;
+  height: 191px;
+  position: absolute;
+  left: 86px;
+  top: 2px;
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.lorem-ipsum4 {
+  color: #0f3eca;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 36px;
+  line-height: 50px;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  position: absolute;
+  left: 1px;
+  top: 194px;
+  width: 330px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-ipsum-interdum-enim-ornare-aliquam-tellus-eget-neque-praesent-volutpat-lacus-rhoncus4 {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.03em;
+  font-weight: 400;
+  position: absolute;
+  left: 29px;
+  top: 260px;
+  width: 273px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-25 {
+  background: #ffffff;
+  border-radius: 35px;
+  opacity: 0.9;
+  width: 331px;
+  height: 434px;
+  position: absolute;
+  left: 443px;
+  top: 80px;
+  box-shadow: -11px 15px 41px 0px rgba(0, 0, 0, 0.1),
+    -45px 60px 75px 0px rgba(0, 0, 0, 0.09),
+    -101px 136px 102px 0px rgba(0, 0, 0, 0.05),
+    -179px 242px 120px 0px rgba(0, 0, 0, 0.01),
+    -280px 378px 132px 0px rgba(0, 0, 0, 0);
+  aspect-ratio: 331/434;
+}
+.ellipse-15 {
+  background: #e8eaf0;
+  border-radius: 50%;
+  width: 160px;
+  height: 160px;
+  position: absolute;
+  left: 529px;
+  top: 16px;
+}
+.deep-12 {
+  width: 115px;
+  height: 115px;
+  position: absolute;
+  left: 551px;
+  top: 38px;
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.lorem-ipsum5 {
+  color: #0f3eca;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 36px;
+  line-height: 50px;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  position: absolute;
+  left: 444px;
+  top: 192px;
+  width: 330px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-ipsum-interdum-enim-ornare-aliquam-tellus-eget-neque-praesent-volutpat-lacus-rhoncus5 {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.03em;
+  font-weight: 400;
+  position: absolute;
+  left: 472px;
+  top: 258px;
+  width: 273px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-26 {
+  background: #ffffff;
+  border-radius: 35px;
+  opacity: 0.9;
+  width: 331px;
+  height: 434px;
+  position: absolute;
+  left: 886px;
+  top: 82px;
+  box-shadow: -11px 15px 41px 0px rgba(0, 0, 0, 0.1),
+    -45px 60px 75px 0px rgba(0, 0, 0, 0.09),
+    -101px 136px 102px 0px rgba(0, 0, 0, 0.05),
+    -179px 242px 120px 0px rgba(0, 0, 0, 0.01),
+    -280px 378px 132px 0px rgba(0, 0, 0, 0);
+  aspect-ratio: 331/434;
+}
+.ellipse-16 {
+  background: #e8eaf0;
+  border-radius: 50%;
+  width: 160px;
+  height: 160px;
+  position: absolute;
+  left: 972px;
+  top: 18px;
+}
+.vector2 {
+  width: 137px;
+  height: 117px;
+  position: absolute;
+  left: 983px;
+  top: 30px;
+  overflow: visible;
+}
+.lorem-ipsum6 {
+  color: #0f3eca;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 36px;
+  line-height: 50px;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  position: absolute;
+  left: 887px;
+  top: 194px;
+  width: 330px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-ipsum-interdum-enim-ornare-aliquam-tellus-eget-neque-praesent-volutpat-lacus-rhoncus6 {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.03em;
+  font-weight: 400;
+  position: absolute;
+  left: 915px;
+  top: 260px;
+  width: 273px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,91 @@
+._2,
+._2 * {
+  box-sizing: border-box;
+}
+._2 {
+  position: relative;
+}
+.background {
+  background: #0f0f0f;
+  width: 1440px;
+  height: 904px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 0px;
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.25);
+}
+.enfase {
+  background: #0f3eca;
+  width: 181px;
+  height: 34px;
+  position: absolute;
+  left: 617px;
+  top: 227px;
+}
+.sobre-techsafe {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 48px;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  position: absolute;
+  left: 562px;
+  top: 126px;
+  width: 291px;
+  height: 135px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-id-aliquam-cursus-pellentesque-vel-faucibus-in-dui-integer-ante-aenean-in-dui-aenean-rhoncus-proin-ut-pellentesque-odio-id-euismod-sagittis-commodo-orci-vestibulum-in-et-velit-maecenas-mauris-scelerisque-malesuada-nisi {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.03em;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 306px;
+  width: 692px;
+  height: 179px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-id-aliquam-cursus-pellentesque-vel-faucibus-in-dui-integer-ante-aenean-in-dui-aenean-rhoncus-proin-ut-pellentesque-odio-id-euismod-sagittis-commodo-orci-vestibulum-in-et-velit-maecenas-mauris-scelerisque-malesuada-nisi2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.03em;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 508px;
+  width: 692px;
+  height: 179px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-2 {
+  width: 272.61px;
+  height: 628px;
+  position: absolute;
+  left: 1167.69px;
+  top: 104px;
+  overflow: visible;
+}
+.image-1 {
+  width: 272px;
+  height: 620px;
+  position: absolute;
+  left: 0px;
+  top: 126px;
+  overflow: visible;
+}
